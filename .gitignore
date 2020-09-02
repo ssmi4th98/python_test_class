@@ -1,0 +1,4 @@
+# these are stuff we don't need
+.idea/
+__pycache__
+
